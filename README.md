@@ -28,4 +28,4 @@ Setting java apliacasi terhubung ke database
 3. masukan database connection yang sudah dibuat lalu klik ok (tunggu sampai selesai)
 4. custom lah selected nya dari yang di available atau urutannya (misal id dibuat posisi ke tiga maka posisi di tabel akan ke tiga)
 
-![Logo ArtiVisi](resources/logo-artivisi.png)
+![Logo ArtiVisi](foto/bin.PNG)
