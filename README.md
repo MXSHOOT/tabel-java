@@ -1,5 +1,6 @@
+Versi Text
 
-Setting Mysql
+Setting MySQL
 1. buka xampp dan aktifkan "Apache" dan "MySQL"
 2. buka browser dan buka dasbord xampp dengan cara tulis "/localhost/phpmyadmin"
 3. buka impor lalu, klik Choose File dan pilih mahasiswa01.sql, lalu ok
@@ -22,10 +23,34 @@ Setting database di netbeans
 5. selanjutnya ubah database sesuai dengan database yang kita sudah buat lalu finish
 (ubah username, password, port,host jika kalau di xampp dibuat custom)
 
-Setting java apliacasi terhubung ke database
+Setting java aplikasi terhubung ke database
 1. klik kanan pada tabel, klik bind lalu elements
 2. selanjutnya klik lah "Import Data to Form" di binding source
 3. masukan database connection yang sudah dibuat lalu klik ok (tunggu sampai selesai)
 4. custom lah selected nya dari yang di available atau urutannya (misal id dibuat posisi ke tiga maka posisi di tabel akan ke tiga)
 
-![Logo ArtiVisi](foto/bin.PNG)
+Versi Gambar
+
+Setting MySQL
+1. ![Logo ArtiVisi](foto/newdb.PNG)
+2. ![Logo ArtiVisi](foto/chose.png)
+3. ![Logo ArtiVisi](foto/import.PNG)
+
+Buat project netbeans
+1. ![Logo ArtiVisi](foto/newp.PNG)
+2. ![Logo ArtiVisi](foto/newjf.png)
+3. ![Logo ArtiVisi](foto/newtbl.png)
+
+Setting database di netbeans
+1. ![Logo ArtiVisi](foto/newcon.png)
+2. ![Logo ArtiVisi](foto/chosecon.PNG)
+3. ![Logo ArtiVisi](foto/chosecondb.PNG)
+
+Setting java aplikasi terhubung ke database
+1. ![Logo ArtiVisi](foto/newbin.png)
+2. ![Logo ArtiVisi](foto/bin.PNG)
+3. ![Logo ArtiVisi](foto/newconbin.png)
+4. ![Logo ArtiVisi](foto/done.PNG)
+5. ![Logo ArtiVisi](foto/chosetab.PNG)
+6. ![Logo ArtiVisi](foto/posisi.PNG)
+7. ![Logo ArtiVisi](foto/hasil.PNG)
