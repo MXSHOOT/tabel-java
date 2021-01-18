@@ -29,6 +29,9 @@ Setting java aplikasi terhubung ke database
 3. masukan database connection yang sudah dibuat lalu klik ok (tunggu sampai selesai)
 4. custom lah selected nya dari yang di available atau urutannya (misal id dibuat posisi ke tiga maka posisi di tabel akan ke tiga)
 
+Untuk melihat hasilnya, klik JFrame atau posisi table yang dibuat lalu tekan "shift + F6". 
+menggunakan shift + f6 dikarenakan saya tidak membuat main atau aplikasi utama untuk menampilkan table, tapi jika ingin tinggal klik run perlu dibuat lagi sesuai dengan yang ingin dibuat.
+
 Versi Gambar
 
 Setting MySQL
